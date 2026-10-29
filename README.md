@@ -1,3 +1,1 @@
-#Git practice
-
-My first Git repository.
+This repository is a collection of HL assignments used within our coding class.
